@@ -1,0 +1,95 @@
+/*TEAM*/
+
+
+.team{
+    
+    padding-top: $landing-padding;
+    padding-bottom: $landing-padding;
+    background-color: rgb(30, 30, 30);
+    color: rgb(255, 255, 255);
+    
+}
+.team-heading {
+    /*color: rgb(255, 255, 255);*/
+    font-weight: lighter;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.team-subheading {
+    color: rgb(100, 100, 100);
+    text-align: center;
+    margin-bottom: 50px;
+}
+/*
+.team-image {
+    display: inline-block;
+    width: 100%;
+    border-radius: 10000px;
+    border: 5px solid rgb(255, 255, 255);
+}
+*/
+.team-image {
+    max-width: 20%;
+    margin-top: 25px;
+
+    @media($bp-larger-than_phablet){
+        max-width: 70%;
+        margin-top: 0px;
+    }
+
+}
+
+.team-image-container {
+    text-align: center;
+}
+
+
+.team-text {
+    margin-left: 90px;
+    
+}
+
+.team-name {
+    font-weight: bold;
+    text-align: center;
+    /*color: rgb(200, 200, 200);*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    @media($bp-larger-than_phablet){
+        margin-top: 10px;
+    }
+
+}
+
+.team-name-desk{
+    text-align: center;
+    margin-bottom: 7px;
+}
+
+.team-icon{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10000px;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+}
+
+.team-icon .fa{
+    margin-top: 5px;
+}
+
+.team-icons a:hover{
+    color: rgb(200, 200, 200);
+}
+.team-icons{
+    text-align: center;
+}
+
+.team-slogan{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}

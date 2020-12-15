@@ -1,0 +1,21 @@
+// Sass configuration
+{
+    "version": "0.1.0",
+    "tasks": [
+        {
+            "taskName": "Kompilieren",
+            "command": "node-sass",
+            "isBuildCommand": true,
+            "isShellCommand": true,
+            "args": ["css", "--output", "css"]
+        },
+        {
+            "taskName": "Kompilieren (watch)",
+            "command": "node-sass",
+            "isBuildCommand": true,
+            "isBackground": true,
+            "isShellCommand": true,
+            "args": ["css", "--output", "css", "--watch", "--recursive"]
+        }
+    ]
+}
