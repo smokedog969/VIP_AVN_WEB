@@ -13,10 +13,13 @@
         <meta content="IE=edge" http-equiv="X-UA-Compatible" />
         <link rel="stylesheet" type="text/css" href="./css/styles.css">
         <link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,700" rel="stylesheet">
-        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        <!-- <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
               rel="stylesheet"
               integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
-              crossorigin="anonymous">
+              crossorigin="anonymous"> -->
+              
+              <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+              rel="stylesheet">
     </head>
     <body>
 

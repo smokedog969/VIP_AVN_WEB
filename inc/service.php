@@ -2,7 +2,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="eight columns">
-                            <h1 class="service-title">Web <strong>Development</strong></h1>
+                            <h1 class="service-title">Aircraft <strong>Handling</strong></h1>
                                     <p>
                                         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
                                     </p>
@@ -29,11 +29,12 @@
                         <div class="four columns">
                             <div class="service-icon">
                             <!-- <i class="fa fa-empire" aria-hidden="true"></i> -->
-                                <i class="fa fa-id-card-o" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-id-card-o" aria-hidden="true"></i> -->
+                                <i class="fas fa-id-card" aria-hidden="true"></i>
                             </div>
                         </div>
                         <div class="eight columns">
-                            <h1 class="brand-title">Identity <strong>Branding</strong></h1>
+                            <h1 class="brand-title">Passenger <strong>Handling</strong></h1>
                                     <p>
                                         Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
                                     </p>

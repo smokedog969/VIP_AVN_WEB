@@ -12,7 +12,11 @@
  <header class="header">
      <div class="container">
                 <div class="header-brand-wrapper">
-                            <a class="header-brand" href="index.php">ESCAPE</a>
+                            <!-- <a class="header-brand" href="index.php">VIP AVIATION BERLIN</a> -->
+                            <a href="index.php">
+                                <img class="header-brand" alt="Logo" src="../img/VIP_LOGO.png"
+                                width="100" height="70">
+                            </a>
                         </div>
                         <nav class="header-navbar">
                             <button id="side-menu-trigger">
@@ -30,13 +34,13 @@
                     <div class="container">
                         <div class="slogan">
                             <div class="slogan-top">
-                                Können Sie eine Webseite für uns entwickeln?
+                                Executive Private Aircraft Handling                           
                             </div>
                             <div class="slogan-bottom">
-                                Ja, wir können das!
+                                VIP AVIATION BERLIN
                             </div>
                     <a href="#service" class="button slogan-button">
-                                Mehr erfahren!
+                                Show more
                     </a>
                 </div>
      </div>

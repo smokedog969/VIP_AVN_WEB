@@ -6,7 +6,8 @@
                         <div>
                             <div class="feature-icon">
                             <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <i class="fa fa-id-card-o" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-id-card-o" aria-hidden="true"></i> -->
+                                <i class="fas fa-plane" aria-hidden="true"></i>
                             </div>
                                 <div class="feature-text">
                                     <h5>Branding & Identity</h5>
@@ -20,7 +21,8 @@
                         <div>
                               <div class="feature-icon">
                                <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <i class="fa fa-mobile" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-mobile" aria-hidden="true"></i> -->
+                                <i class="fas fa-plane" aria-hidden="true"></i>
                             </div>
                             <div class="feature-text">
                                 <h5>Mobile App Development</h5>
@@ -34,7 +36,8 @@
                         <div>
                           <div class="feature-icon">
                            <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
+                            <i class="fas fa-plane" aria-hidden="true"></i>
                         </div>
                         <div class="feature-text">
                             <h5>UI/UX</h5>
@@ -50,7 +53,8 @@
                         <div>
                             <div class="feature-icon">
                             <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <i class="fa fa-window-restore" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-window-restore" aria-hidden="true"></i> -->
+                                <i class="fas fa-plane" aria-hidden="true"></i>
                             </div>
                                 <div class="feature-text">
                                     <h5>Web & Graphic Design</h5>
@@ -64,7 +68,8 @@
                         <div>
                               <div class="feature-icon">
                                <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <i class="fa fa-video-camera" aria-hidden="true"></i>
+                                <!-- <i class="fa fa-video-camera" aria-hidden="true"></i> -->
+                                <i class="fas fa-plane" aria-hidden="true"></i>
                             </div>
                             <div class="feature-text">
                                 <h5>Animation</h5>
@@ -78,7 +83,8 @@
                         <div>
                           <div class="feature-icon">
                            <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                            <i class="fa fa-camera" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-camera" aria-hidden="true"></i> -->
+                            <i class="fas fa-plane" aria-hidden="true"></i>
                         </div>
                         <div class="feature-text">
                             <h5>Photography</h5>

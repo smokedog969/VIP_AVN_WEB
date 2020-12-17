@@ -645,6 +645,7 @@ p {
 .header {
   height: 620px;
   background-image: url("../img/header-background-edited.jpg");
+  /* background-image: url("../img/Aircraft.jpg"); */
   background-size: cover;
   background-position: 50% 62%; }
 

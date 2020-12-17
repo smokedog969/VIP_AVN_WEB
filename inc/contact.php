@@ -9,38 +9,38 @@
                                 <span class="contact-icon">
                                 <i class="fa fa-mobile" aria-hidden="true"></i>
                                 </span>
-                                +49123456789
+                                +4930609178880
                             </li>
                             <li>
                                 <span class="contact-icon">
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
                                 </span>
-                                hallo@hallo.welt
+                                vip_berlin@t-online.de
                             </li>
-                            <li>
+                            <!-- <li>
                                 <span class="contact-icon">
                                 <i class="fa fa-twitter" aria-hidden="true"></i>
                                 </span>
                                 @htmlkurs
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <span class="contact-icon">
                                 <i class="fa fa-facebook" aria-hidden="true"></i>
                                 </span>
                                 facebook.com
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <span class="contact-icon">
                                 <i class="fa fa-google-plus" aria-hidden="true"></i>
                                 </span>
                                 plus.google.com
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <span class="contact-icon">
                                 <i class="fa fa-pinterest" aria-hidden="true"></i>
                                 </span>
                                 pinterest.com
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
 
