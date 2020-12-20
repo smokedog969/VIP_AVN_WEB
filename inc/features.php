@@ -1,100 +1,154 @@
+<!-- FEATURES -->
 <div class="features">
-            <div class="container">
-                <div class="row">
-                    <div class="six columns">
-                        <!--1.-->
-                        <div>
-                            <div class="feature-icon">
-                            <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                            <!-- <i class="fa fa-id-card-o" aria-hidden="true"></i> -->
-                                <i class="fas fa-plane" aria-hidden="true"></i>
-                            </div>
-                                <div class="feature-text">
-                                    <h5>Branding & Identity</h5>
-                                    <p>
-                                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                                    </p>
+    <div class="container">
+        <div class="row">
+            <div class="six columns">
+                <!--1.-->
+                <div>
+                    <h1 class="service-title"><strong>Aircraft</strong></h1>
+                    <div class="feature-icon">
 
-                                </div>
-                            </div>
-                        <!--2-->
-                        <div>
-                              <div class="feature-icon">
-                               <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <!-- <i class="fa fa-mobile" aria-hidden="true"></i> -->
-                                <i class="fas fa-plane" aria-hidden="true"></i>
-                            </div>
-                            <div class="feature-text">
-                                <h5>Mobile App Development</h5>
-                                <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                                </p>
-
-                            </div>
-                        </div>
-                        <!--3.-->
-                        <div>
-                          <div class="feature-icon">
-                           <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                            <!-- <i class="fa fa-star" aria-hidden="true"></i> -->
-                            <i class="fas fa-plane" aria-hidden="true"></i>
-                        </div>
-                        <div class="feature-text">
-                            <h5>UI/UX</h5>
-                            <p>
-                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                            </p>
-
-                        </div>
+                        <i class="fas fa-shuttle-van" aria-hidden="true"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Ground Assistance</h5>
                     </div>
                 </div>
-                    <div class="six columns">
-                       <!--1.-->
-                        <div>
-                            <div class="feature-icon">
-                            <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <!-- <i class="fa fa-window-restore" aria-hidden="true"></i> -->
-                                <i class="fas fa-plane" aria-hidden="true"></i>
-                            </div>
-                                <div class="feature-text">
-                                    <h5>Web & Graphic Design</h5>
-                                    <p>
-                                    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                                    </p>
+                <!--2-->
+                <div>
+                    <div class="feature-icon">
 
-                                </div>
-                            </div>
-                        <!--2-->
-                        <div>
-                              <div class="feature-icon">
-                               <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                                <!-- <i class="fa fa-video-camera" aria-hidden="true"></i> -->
-                                <i class="fas fa-plane" aria-hidden="true"></i>
-                            </div>
-                            <div class="feature-text">
-                                <h5>Animation</h5>
-                                <p>
-                                Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                                </p>
-
-                            </div>
-                        </div>
-                        <!--3.-->
-                        <div>
-                          <div class="feature-icon">
-                           <!-- <i class="fa fa-empire" aria-hidden="true"></i>-->
-                            <!-- <i class="fa fa-camera" aria-hidden="true"></i> -->
-                            <i class="fas fa-plane" aria-hidden="true"></i>
-                        </div>
-                        <div class="feature-text">
-                            <h5>Photography</h5>
-                            <p>
-                            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
-                            </p>
-
-                        </div>
+                        <i class="fas fa-gas-pump" aria-hidden="true"></i>
                     </div>
+                    <div class="feature-text">
+                        <h5>Fuel Service</h5>
+                    </div>
+                </div>
+                <!--3.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="far fa-snowflake" aria-hidden="true"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>De-Icing</h5>
+                    </div>
+                </div>
+                <!--4.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <!-- <i class="fas fa-wine-glass" aria-hidden="true"></i> -->
+                        <i class="fas fa-biohazard" aria-hidden="true"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Catering</h5>
+                    </div>
+                </div>
+                <!--5.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-file-word" aria-hidden="true"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Weather Briefing</h5>
+                    </div>
+                </div>
+                <!--6.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Flight Planning</h5>
+                    </div>
+                </div>
+                <!--7.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fab fa-avianex" aria-hidden="true"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Overflight / Landing Permits</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="six columns">
+                <!--1.-->
+                <div>
+                    <h1 class="service-title"><strong>Passengers</strong></h1>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-hands-helping"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Passenger and Crew Assistance</h5>
+                    </div>
+                </div>
+                <!--2-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-couch"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Lounges</h5>
+                    </div>
+                </div>
+                <!--3.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-dollar-sign"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Assistance with Customs</h5>
+                    </div>
+                </div>
+                <!--4.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-shuttle-van"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Ground Transportation</h5>
+                    </div>
+                </div>
+                <!--5.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-car"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Limousine Service</h5>
+                    </div>
+                </div>
+                <!--6.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-car-side"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Rent a Car Facilities</h5>
+                    </div>
+                </div>
+                <!--7.-->
+                <div>
+                    <div class="feature-icon">
+
+                        <i class="fas fa-concierge-bell"></i>
+                    </div>
+                    <div class="feature-text">
+                        <h5>Hotel Reservation</h5>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>

@@ -23,14 +23,14 @@
                 </div>
             </div>
 
-        <div class="service service-grey">
+            <div class="service service-grey">
                 <div class="container">
                     <div class="row">
                         <div class="four columns">
                             <div class="service-icon">
                             <!-- <i class="fa fa-empire" aria-hidden="true"></i> -->
                                 <!-- <i class="fa fa-id-card-o" aria-hidden="true"></i> -->
-                                <i class="fas fa-id-card" aria-hidden="true"></i>
+                                <i class="fa fa-id-card" aria-hidden="true"></i>
                             </div>
                         </div>
                         <div class="eight columns">
