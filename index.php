@@ -32,6 +32,7 @@
     <?php require(__DIR__ . "/inc/map.php"); ?>
     <?php require(__DIR__ . "/inc/team.php"); ?>
     <?php require(__DIR__ . "/inc/contact.php"); ?>
+    <!--<?php require(__DIR__ . "/inc/simpleContact.php"); ?> -->
     <?php require(__DIR__ . "/inc/footer.php"); ?>
 
     <!--SCRIPTS-->
