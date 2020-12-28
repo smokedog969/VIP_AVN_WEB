@@ -56,7 +56,8 @@ try {
     //$mail->setFrom('from@example.com', 'Mailer');
     $mail->setFrom($_POST['email'], $_POST['name']);
     //$mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
-    $mail->addAddress('steffen.schafrik@googlemail.com');     // Add a recipient
+    $mail->addAddress('steffen.schafrik@googlemail.com');
+    $mail->addAddress('steffen.schafrik@icloud.com');     // Add a recipient
     //$mail->addAddress('ellen@example.com');               // Name is optional
     //$mail->addReplyTo('info@example.com', 'Information');
     //$mail->addCC('cc@example.com');

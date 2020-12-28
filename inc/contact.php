@@ -14,6 +14,12 @@
                     </li>
                     <li>
                         <span class="contact-icon">
+                            <i class="fa fa-fax" aria-hidden="true"></i>
+                        </span>
+                        +4930609178888
+                    </li>
+                    <li>
+                        <span class="contact-icon">
                             <i class="fa fa-envelope" aria-hidden="true"></i>
                         </span>
                         vip_berlin@t-online.de
