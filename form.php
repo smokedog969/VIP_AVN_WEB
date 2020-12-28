@@ -25,6 +25,9 @@ use PHPMailer\PHPMailer\Exception;
 
 // Load Composer's autoloader
 require(__DIR__ . 'vendor/autoload.php)';
+require(__DIR__ . 'vendor/phpmailer/phpmailer/src/Exception.php)';
+require(__DIR__ . 'vendor/phpmailer/phpmailer/src/PHPMailer.php)';
+require(__DIR__ . 'vendor/phpmailer/phpmailer/src/SMTP.php)';
 
 if(isset($_POST['name'] && isset($_POST['email'])){
     $name = $_POST['name'];
