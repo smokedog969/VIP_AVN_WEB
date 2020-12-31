@@ -66,8 +66,8 @@ try {
     $mail->CharSet = 'utf-8';                                         // Send using SMTP
     $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-    //$mail->Username   = 'steffen.schafrik@googlemail.com';                     // SMTP username
-    //$mail->Password   = 'vedsYv-jixxo8-bonbib';  
+    //$mail->Username   = 'user@googlemail.com';                     // SMTP username
+    //$mail->Password   = 'secret';  
     $mail->Username   = getenv('SMTP_USERNAME'); 
     $mail->Password   = getenv('SMTP_PASSWORD');                            // SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
@@ -84,8 +84,8 @@ try {
     );
     ////////
 
-    echo $mail->Username;
-    echo $mail->Password;
+    //echo $mail->Username;
+    //echo $mail->Password;
 
     //Recipients
     //$mail->setFrom('steffen.schafrik@icloud.com', 'Mailer');

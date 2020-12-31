@@ -737,7 +737,8 @@ p {
 
 .service-title {
   font-weight: lighter;
-  color: #1e1e1e; }
+  color: #1e1e1e;
+  text-align: center; }
 
   .location {
     text-align: center;
