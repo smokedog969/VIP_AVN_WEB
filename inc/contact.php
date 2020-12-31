@@ -8,7 +8,9 @@
                 <ul class="contact-methods">
                     <li>
                         <span class="contact-icon">
-                            <i class="fa fa-mobile" aria-hidden="true"></i>
+                            <!-- <i class="fa fa-mobile" aria-hidden="true"></i> -->
+                            <!-- <i class="fa fa-phone-alt" aria-hidden="true"></i> -->
+                            <i class="fa fa-mobile-alt" aria-hidden="true"></i>
                         </span>
                         +4930609178880
                     </li>
@@ -73,7 +75,7 @@
                         required="required" />
 
                     <label for="contact-message" class="contact-label">Your Message *</label>
-                    <textarea name="message" id="contact-message" class="contact-input contact-message"
+                    <textarea name="body" id="contact-message" class="contact-input contact-message"
                         placeholder="Your Message *" required="required"></textarea>
 
                     <input class="contact-submit" type="submit" value="SUBMIT MESSAGE" />

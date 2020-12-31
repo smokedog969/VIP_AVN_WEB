@@ -49,7 +49,7 @@
                 <div>
                     <div class="feature-icon">
 
-                        <i class="fas fa-file-word" aria-hidden="true"></i>
+                        <i class="fas fa-cloud" aria-hidden="true"></i>
                     </div>
                     <div class="feature-text">
                         <h5>Weather Briefing</h5>

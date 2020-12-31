@@ -644,8 +644,9 @@ p {
 /*HEADER*/
 .header {
   height: 620px;
-  background-image: url("../img/header-background-edited.jpg");
+  /* background-image: url("../img/header-background-edited.jpg"); */
   /* background-image: url("../img/Aircraft.jpg"); */
+  background-image: url("../img/BG5_1.jpg");
   background-size: cover;
   background-position: 50% 62%; }
 
@@ -738,6 +739,10 @@ p {
   font-weight: lighter;
   color: #1e1e1e; }
 
+  .location {
+    text-align: center;
+  }
+
 .service-icon {
   color: #e0e0e0;
   font-size: 700%;
@@ -770,11 +775,11 @@ p {
   height: 25px;
   /* padding-top: 2px; */
   /* padding-left: 5px; */
-  padding-top: 2px;
-  padding-left: 2px;
-  background-color: #1e1e1e;
+  padding-top: 5px;
+  padding-left: 5px;
+  /* background-color: #1e1e1e; */
   border-radius: 35px;
-  color: white;
+  /* color: white; */
   text-align: center;
   font-size: 16px;
   float: left;
@@ -797,11 +802,11 @@ p {
   .feature-icon {
     display: block; } }
 
-.feature-icon:hover {
+/* .feature-icon:hover {
   transform-origin: center;
   -webkit-transform: rotateZ(360deg);
   -moz-transform: rotateZ(360deg);
-  transform: rotateZ(360deg); }
+  transform: rotateZ(360deg); } */
 
 .feature-text {
   margin-left: 90px; }

@@ -35,6 +35,19 @@
     <!--<?php require(__DIR__ . "/inc/simpleContact.php"); ?> -->
     <?php require(__DIR__ . "/inc/footer.php"); ?>
 
+    <!-- php
+    use PHPMailer\PHPMailer\PHPMailer;
+    use PHPMailer\PHPMailer\SMTP;
+    use PHPMailer\PHPMailer\Exception;
+    
+    require 'vendor/autoload.php';
+    use Dotenv\Dotenv;
+    
+    $dotenv = Dotenv::createImmutable(__DIR__);
+    //$dotenv = Dotenv::createImmutable($_SERVER['DOCUMENT_ROOT']);
+    $dotenv->load();
+    ?> -->
+
     <!--SCRIPTS-->
     <script type="text/javascript" src="./vendor/jquery/jquery-3.2.1.js"></script>
     <script type="text/javascript" src="./vendor/jpanelmenu/jquery.jpanelmenu.js"></script>
