@@ -1,6 +1,6 @@
 <!----------->
 <div class="service-grey features" id="location">
-    <div class="container big-text">
+    <div class="container">
         <h1 class="service-title location">FBO <strong>Location</strong></h1>
         <!-- <h1 class="team-heading">FBO<strong>Location</strong></h1> -->
         <div class="row">

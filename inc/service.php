@@ -1,6 +1,6 @@
 <div class="service" id="service">
     <div class="container">
-        <div class="row big-text">
+        <div class="row">
             <div class="eight columns">
                 <h1 class="service-title">Aircraft <strong>Handling</strong></h1>
                 <p>
@@ -30,7 +30,7 @@
 
 <div class="service service-grey">
     <div class="container">
-        <div class="row big-text">
+        <div class="row">
             <div class="four columns">
                 <div class="service-icon">
                     <!-- <i class="fa fa-empire" aria-hidden="true"></i> -->

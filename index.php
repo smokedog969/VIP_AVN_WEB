@@ -13,6 +13,9 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <link rel="stylesheet" type="text/css" href="./css/styles.css">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Mulish&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Muli:200,300,400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@500;700&family=Lobster&display=swap"
         rel="stylesheet" />

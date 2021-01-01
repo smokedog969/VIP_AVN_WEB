@@ -1,7 +1,7 @@
 <!-- FEATURES -->
 <div class="features">
     <div class="container">
-        <div class="row big-text">
+        <div class="row">
             <div class="six columns">
                 <!--1.-->
                 <div>

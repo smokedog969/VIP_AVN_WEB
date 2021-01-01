@@ -1,4 +1,4 @@
-<div class="clients big-text" id="clients">
+<div class="clients" id="clients">
     <div class="container">
         <h2 class="clients-heading">Awesome <strong>Clients</strong></h2>
         <p class="clients-subheading">See what clients said about us.</p>

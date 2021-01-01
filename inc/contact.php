@@ -1,6 +1,6 @@
 <div class="contact" id="contact">
     <div class="container">
-        <div class="row big-text">
+        <div class="row">
             <div class="six columns">
                 <h2 class="contact-heading">Say <strong>Hello</strong></h2>
                 <p class="contact-subheading">Don't be shy, drop us an email and say hello! We are a really nice bunch
