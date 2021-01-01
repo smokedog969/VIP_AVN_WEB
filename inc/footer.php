@@ -2,7 +2,7 @@
      <div class="container big-text">
          <hr class="footer-hr" />
          <p>* Made With <i class="fa fa-heart" aria-hidden="true"></i> In Berlin *</p>
-         <p><a href="#"> &copy; <?php echo date("Y"); ?> VIP AVIATION BERLIN</a></p>
+         <p><a href="#"> &copy; <?php echo date("Y"); ?> VIP AVIATION BERLIN GmbH</a></p>
          <p>Impressum</p>
          <p>Vertretungsberechtigter Geschäftsfuehrer: Sebastian Pingel</p>
          <p> Registergericht: Berlin Charlottenburg</p>
