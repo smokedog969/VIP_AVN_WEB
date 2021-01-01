@@ -4,7 +4,7 @@
          <p>* Made With <i class="fa fa-heart" aria-hidden="true"></i> In Berlin *</p>
          <p><a href="#"> &copy; <?php echo date("Y"); ?> VIP AVIATION BERLIN</a></p>
          <p>Impressum</p>
-         <p>Vertretungsberechtigter Geschaeftsfuehrer: Sebastian Pingel</p>
+         <p>Vertretungsberechtigter Geschäftsfuehrer: Sebastian Pingel</p>
          <p> Registergericht: Berlin Charlottenburg</p>
          <p>Registernummer: HRB 60591</p>
          <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 176635607</p>
