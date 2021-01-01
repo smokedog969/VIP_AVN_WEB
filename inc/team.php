@@ -1,5 +1,5 @@
  <div class="team" id="team">
-     <div class="container">
+     <div class="container big-text">
          <h2 class="team-heading">Awesome <strong>Team</strong></h2>
          <p class="team-subheading">These awesome people make work enjoyable.</p>
 
