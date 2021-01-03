@@ -1106,6 +1106,7 @@ input.contact-submit[type="submit"] {
   margin-top: 0px;
   margin-bottom: 25px; }
 
+/*JPANEL MENU*/
 .side-menu {
   background-color: #f0f0f0;
   padding-top: 15px; }
@@ -1128,6 +1129,8 @@ input.contact-submit[type="submit"] {
   padding-left: 15px;
   text-decoration: none;
   color: #323232; }
+
+ 
 
   /* NEW ANIMATION PART */
 

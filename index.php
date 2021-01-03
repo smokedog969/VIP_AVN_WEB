@@ -30,7 +30,8 @@
 
 <body>
 
-    <?php require(__DIR__ . "/inc/header.php"); ?>
+    <?php require(__DIR__ . "/inc/header_old.php"); ?>
+    <!--?php require(__DIR__ . "/inc/header_anim.php"); ?-->
     <?php require(__DIR__ . "/inc/service.php"); ?>
     <?php require(__DIR__ . "/inc/features.php"); ?>
     <?php require(__DIR__ . "/inc/clients.php"); ?>
@@ -44,7 +45,7 @@
     <script type="text/javascript" src="./vendor/jpanelmenu/jquery.jpanelmenu.js"></script>
     <script type="text/javascript" src="./vendor/modernizr/modernizr-custom.js"></script>
 
-    <!-- <script type="text/javascript">
+    <script type="text/javascript">
     jQuery(document).ready(function($) {
         var jPM = $.jPanelMenu({
             menu: '.side-menu',
@@ -57,7 +58,7 @@
             jPM.close();
         });
     });
-    </script> -->
+    </script>
 
     <!--- WORKING ANIMATION FOR HEADER OLD ---
     <script type="text/javascript">
@@ -98,7 +99,7 @@
         integrity="sha512-IQLehpLoVS4fNzl7IfH8Iowfm5+RiMGtHykgZJl9AWMgqx0AmJ6cRWcB+GaGVtIsnC4voMfm8f2vwtY+6oPjpQ=="
         crossorigin="anonymous"></script>
 
-    <script src="./app.js"></script>
+    <!--<script src="./app.js"></script>-->
 
 </body>
 
