@@ -60,20 +60,22 @@ $dotenv->required(['SMTP_USERNAME', 'SMTP_PASSWORD']);
 
 try {
     //Server settings
-    // $mail->SMTPDebug = SMTP::DEBUG_SERVER;
-    $mail->SMTPDebug = 1;                      // Enable verbose debug output
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+    $mail->SMTPDebug = 3;                      // Enable verbose debug output
     $mail->isSMTP();   
     $mail->CharSet = 'utf-8';                                         // Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
+    //$mail->Host       = 'smtp.gmail.com';  //GOOGLE
+    $mail->Host       = 'securesmtp.t-online.de';                  // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
     //$mail->Username   = 'user@googlemail.com';                     // SMTP username
     //$mail->Password   = 'secret';  
     $mail->Username   = getenv('SMTP_USERNAME'); 
     $mail->Password   = getenv('SMTP_PASSWORD');                            // SMTP password
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // GOOGLE
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;    // T-ONLINE ???
     //$mail->SMTPSecure = 'ssl';        // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
-    $mail->Port       = 587;    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
-
+    //$mail->Port       = 587;    // GOOGLE -- TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
+    $mail->Port       = 465; // T_ONLINE PORT
     ////////
     $mail->SMTPOptions = array(
         'ssl' => array(
@@ -91,7 +93,7 @@ try {
     //$mail->setFrom('steffen.schafrik@icloud.com', 'Mailer');
     $mail->setFrom($_POST['email'], $_POST['name']);
     //$mail->addAddress('joe@example.net', 'Joe User');     // Add a recipient
-    $mail->addAddress('steffen.schafrik@googlemail.com');   // Add a recipient
+    $mail->addAddress('steffen.schafrik@googlemail.com');   // Add a recipient GMAIL TEST RECIPIENT
     //$mail->addAddress('steffen.schafrik@icloud.com');     // Add a recipient
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML

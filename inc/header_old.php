@@ -4,9 +4,9 @@
     <ul class="side-menu-navigation">
         <li><a href="#">Home</a></li>
         <li><a href="#service">Services</a></li>
-        <li><a href="#clients">Clients</a></li>
+        <!-- <li><a href="#clients">Clients</a></li> -->
         <li><a href="#location">Location</a></li>
-        <li><a href="#team">Team</a></li>
+        <!-- <li><a href="#team">Team</a></li> -->
         <li><a href="#contact">Contact</a></li>
     </ul>
 </div>
@@ -25,9 +25,9 @@
             <ul class="header-navbar-links">
                 <li><a href="#">Home</a></li>
                 <li><a href="#service">Services</a></li>
-                <li><a href="#clients">Clients</a></li>
+                <!-- <li><a href="#clients">Clients</a></li> -->
                 <li><a href="#location">Location</a></li>
-                <li><a href="#team">Team</a></li>
+                <!-- <li><a href="#team">Team</a></li> -->
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>

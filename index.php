@@ -34,9 +34,9 @@
     <!--?php require(__DIR__ . "/inc/header_anim.php"); ?-->
     <?php require(__DIR__ . "/inc/service.php"); ?>
     <?php require(__DIR__ . "/inc/features.php"); ?>
-    <?php require(__DIR__ . "/inc/clients.php"); ?>
+    <!--?php require(__DIR__ . "/inc/clients.php"); ?-->
     <?php require(__DIR__ . "/inc/map.php"); ?>
-    <?php require(__DIR__ . "/inc/team.php"); ?>
+    <!--?php require(__DIR__ . "/inc/team.php"); ?-->
     <?php require(__DIR__ . "/inc/contact.php"); ?>
     <?php require(__DIR__ . "/inc/footer.php"); ?>
 
@@ -54,8 +54,10 @@
 
         });
         jPM.on();
+        console.log("PanelClick Open");
         $(".side-menu a").click(function() {
             jPM.close();
+            console.log("PanelClick Close");
         });
     });
     </script>
