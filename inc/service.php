@@ -68,15 +68,7 @@
 
                     The VIP Aviation Handling team looks forward to welcoming you to the General Aviation Terminal.
                 </p>
-                <p>
-                    Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor
-                    sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-                    magna aliquyam erat, sed diam voluptua.
-                </p>
-                <p>
-                    At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata
-                    sanctus est Lorem ipsum dolor sit amet.
-                </p>
+
             </div>
             <div class="four columns">
                 <div class="service-icon">
@@ -102,17 +94,19 @@
             <div class="eight columns">
                 <h1 class="brand-title">Executive Aircraft <strong>Handling</strong></h1>
                 <p>
-                    VIP Aviation Handling stands for quality, comfort and first-class service.
-
-                    VIP AVIATION Handling is more that 30 years of experience at the Berlin Airports.
-
+                    VIP Aviation Handling stands for quality, comfort and first-class service and
+                    has more that 30 years of experience at the Berlin Airports.
+                </p>
+                <p>
                     In recent years we have provided professional, competitively priced ground handling services at the
                     Berlin Airports to a wide variety of visitors from general aviation to VIP and corporate flights
                     including politicians and celebrities.
-
+                </p>
+                <p>
                     We have the facilities at Berlin Brandenburg International Airport and expertise to handle executive
                     aircraft, and helicopters of every shape and size.
-
+                </p>
+                <p>
                     Established in 1991, VIP Aviation has more than 30 years of experience in the aviation industry.
                     Our goal is to provide you with the high quality services that we ourselves require from an Handling
                     Agent. We look forward to welcoming you.
