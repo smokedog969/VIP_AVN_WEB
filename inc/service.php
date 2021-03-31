@@ -95,7 +95,7 @@
                 <h1 class="brand-title">Executive Aircraft <strong>Handling</strong></h1>
                 <p>
                     VIP Aviation Handling stands for quality, comfort and first-class service and
-                    has more that 30 years of experience at the Berlin Airports.
+                    has more than 30 years of experience at the Berlin Airports.
                 </p>
                 <p>
                     In recent years we have provided professional, competitively priced ground handling services at the
