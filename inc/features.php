@@ -39,8 +39,8 @@
                 <div>
                     <div class="feature-icon">
 
-                        <i class="fas fa-wine-glass" aria-hidden="true"></i>
-
+                        <!-- <i class="fas fa-wine-glass" aria-hidden="true"></i> -->
+                        <i class="fas fa-shuttle-van" aria-hidden="true"></i>
                     </div>
                     <div class="feature-text">
                         <h5>Taxi Service</h5>
@@ -134,7 +134,8 @@
                 <div>
                     <div class="feature-icon">
 
-                        <i class="fas fa-car-side"></i>
+                        <!-- <i class="fas fa-car-side"></i> -->
+                        <i class="fas fa-shuttle-van" aria-hidden="true"></i>
                     </div>
                     <div class="feature-text">
                         <h5>Ramp Access for Handicapped People</h5>
