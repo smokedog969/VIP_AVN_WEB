@@ -740,6 +740,11 @@ p {
   padding-bottom: 85px; 
   background-color: white;}
 
+.service-map {
+    padding-top: 100px;
+    padding-bottom: 85px; 
+    background-color: #fafafa; }
+
 .service-grey {
   background-color: #fafafa; }
 
