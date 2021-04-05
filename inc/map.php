@@ -14,7 +14,7 @@
                     <h5 class="service-title">Physical Adress:</h5>
                     </p>
                     <p>
-                        VIP Aviation Berlin<br>
+                        VIP Aviation Berlin GmbH<br>
                         General Aviation Terminal<br>
                         Georg-Wulf-Straße 3<br>
                         D-12529 Schönefeld<br>
