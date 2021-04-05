@@ -1,4 +1,4 @@
-<!----------->
+<!-----MAP------>
 <!-- <div class="service-grey features" id="location"> -->
 <div class="service-map" id="location">
     <div class="container">
