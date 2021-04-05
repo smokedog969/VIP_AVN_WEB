@@ -34,27 +34,27 @@
     </div>
     <div class="box2 container">
         <!----- PHP MAILER MESSAGE ----->
-        <div class="six columns">
-            <?php if (isset($_GET['contacted'])): ?>
-            <p class="contact-subheading">Message was sended</p>
-            <?php endif; ?>
-            <!----- PHP MAILER MESSAGE ----->
 
-            <div class="slogan">
-                <div class="slogan-top big-text">
-                    Executive Aircraft Services
-                </div>
-                <div class="slogan-bottom big-text">
-                    VIP AVIATION BERLIN
-                </div>
-                <a href="#service" class="button slogan-button big-text">
-                    Show more
-                </a>
+        <?php if (isset($_GET['contacted'])): ?>
+        <p class="contact-subheading">Message was sended</p>
+        <?php endif; ?>
+        <!----- PHP MAILER MESSAGE ----->
+
+        <div class="slogan">
+            <div class="slogan-top big-text">
+                Executive Aircraft Services
             </div>
+            <div class="slogan-bottom big-text">
+                VIP AVIATION BERLIN
+            </div>
+            <a href="#service" class="button slogan-button big-text">
+                Show more
+            </a>
         </div>
+    </div>
 
-        <!-- ANIMATION START -->
-        <!-- <div class="intro">
+    <!-- ANIMATION START -->
+    <!-- <div class="intro">
          <div class="intro-text">
              <div class="hide">
                  <span class="anim">FIRST CLASS HANDLING</span>
@@ -68,6 +68,6 @@
          </div>
      </div>
      <div class="slider"></div> -->
-        <!-- ANIMATION END -->
+    <!-- ANIMATION END -->
 
 </header>
