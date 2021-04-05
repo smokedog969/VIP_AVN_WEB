@@ -33,14 +33,17 @@
         </nav>
     </div>
     <div class="box2 container">
-        <!----- PHP MAILER MESSAGE ----->
 
-        <?php if (isset($_GET['contacted'])): ?>
-        <p class="contact-subheading">Message was sended</p>
-        <?php endif; ?>
-        <!----- PHP MAILER MESSAGE ----->
 
         <div class="slogan">
+
+            <!----- PHP MAILER MESSAGE ----->
+
+            <?php if (isset($_GET['contacted'])): ?>
+            <p class="contact-subheading">Message was sended</p>
+            <?php endif; ?>
+            <!----- PHP MAILER MESSAGE ----->
+
             <div class="slogan-top big-text">
                 Executive Aircraft Services
             </div>
